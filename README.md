@@ -7,6 +7,9 @@ This project involves analyzing and predicting breast cancer patient survival us
 
 We aim to visualize key relationships between patient characteristics and survival outcomes, and build a prediction model to assess whether a patient will survive based on various factors such as age, race, and ES/PR status.
 
+## Dataset
+The dataset used in this project contains anonymized data of patients. Each instance consists of various features related to demographics, medical history, and test results. The target variable indicates whether the patient is diagnosed with breast cancer or not.
+
 ## Features
 
 - Data visualization using **stacked bar charts** and **scatter plots**.
